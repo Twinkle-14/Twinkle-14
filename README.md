@@ -9,7 +9,7 @@
 - HTML5
 - CSS3
 - JavaScript
-- Problem Solving (DSA) solved - 41+ problems
+- Problem Solving (DSA) solved - 51+ problems
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedln.com\twinklesurti3014) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:twinklesurti3014@gmail.com) 
