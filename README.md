@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm a Computer Science student and passionate Full Stack Developer.  <br>💡 I love building responsive web apps and exploring new technologies that make development fun and efficient.  <br><br>🚀 **Tech Stack:**  <br>HTML • CSS • JavaScript • React • Next.js • Node.js • Express • MongoDB  <br><br>🧩 Currently sharpening my skills in Data Structures & Algorithms (400+ LeetCode problems solved).  <br>🌱 Always learning, creating, and contributing to open-source projects.  <br>
+👋 Hi there! I'm a Computer Science student and passionate Full Stack Developer.  <br>💡 I love building responsive web apps and exploring new technologies that make development fun and efficient.  <br><br>🚀 **Tech Stack:**  <br>HTML • CSS • JavaScript • React • Next.js • Node.js • Express • MongoDB  <br><br>🧩 Currently sharpening my skills in Data Structures & Algorithms (500+ LeetCode problems solved).  <br>🌱 Always learning, creating, and contributing to open-source projects.  <br>
 
 
 # 💻 Tech Stack:
